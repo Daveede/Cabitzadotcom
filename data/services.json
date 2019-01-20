@@ -2,14 +2,14 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "address-card",
+			"title" : "Logo & Branding Design",
+			"description" : "Professional logo & Branding design, tailored to your needs to boost your online and offline presence."
 		},
 		{
 			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"title" : "Graphic Design",
+			"description" : "Professional Graphic Design commissions, from online banners, documents and brochure impaginations and much more."
 		}
 	]
 }
